@@ -8,6 +8,8 @@ This annoying issue can be fixed by simply right-clicking and select "Align to P
 
 **Align 2 Pixel** is a lightweight plugin that allows you to quickly align the selected objects to the grid - as an integer instead of a fraction - using a quick command (see [Usage](https://github.com/hugompfigueira/align2pixel-xd-plugin/blob/main/README.md#usage) section). Until Adobe XD allows you to change or edit shortcuts, this plugin will come in handy to quickly perform an action that usually takes more than 2 clicks.
 
+
+
 ## Installation
 
 To install this plugin, simply:
