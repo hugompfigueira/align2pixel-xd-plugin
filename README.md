@@ -15,7 +15,7 @@ To install this plugin, simply:
 1. Download the file;
 2. Go to Adobe XD, Plugins > Development > Show Development Folder;
 3. Extract the downloaded folder into the "develop" folder;
-4. Go back to Adobe XD, Plugins > Development > Reload Plugins (or ```Shift + Cmd/Ctrl + R```);
+4. Go back to Adobe XD, Plugins > Development > Reload Plugins (or `Shift + Cmd/Ctrl + R`);
 5. Done!
 
 You will now see the Align 2 Pixel plugin in the plugins panel or in Plugins menu.
@@ -24,8 +24,8 @@ You will now see the Align 2 Pixel plugin in the plugins panel or in Plugins men
 
 To use this plugin, you have 3 options:
 
-1. **Via commands (shortcuts)**: ```Cmd + Shift + X``` (or ```Ctrl + Shift + X``` if you are using Windows);
-2. **Plugins panel**: You will see it in the Plugins panel (```Cmd + P``` to show/hide panel) - click on it to apply action;
+1. **Via commands (shortcuts)**: `Cmd + Shift + X` (or `Ctrl + Shift + X` if you are using Windows);
+2. **Plugins panel**: You will see it in the Plugins panel (`Cmd + P` to show/hide panel) - click on it to apply action;
 3. **Plugins menu**: You can also reach it in Plugins > Align2Pixel.
 
 ## License
