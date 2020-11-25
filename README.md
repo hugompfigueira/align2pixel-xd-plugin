@@ -24,7 +24,7 @@ You will now see the Align 2 Pixel plugin in the plugins panel or in Plugins men
 
 To use this plugin, you have 3 options:
 
-1. **Via commands (shortcuts)**: Cmd + Shift + X (or Ctrl + Shift + X if you are using Windows);
+1. **Via commands (shortcuts)**: ```Cmd + Shift + X``` (or ```Ctrl + Shift + X``` if you are using Windows);
 2. **Plugins panel**: You will see it in the Plugins panel (Cmd + P to show/hide panel) - click on it to apply action;
 3. **Plugins menu**: You can also reach it in Plugins > Align2Pixel.
 
