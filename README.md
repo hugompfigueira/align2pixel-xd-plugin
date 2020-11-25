@@ -2,7 +2,7 @@
 
 ## Description
 
-When creating a project in Adobe XD, I often face an issue (and you probably may too) that I can't control - Pixel-fractions.
+When creating a project in Adobe XD, I often face an issue (and you probably may too) that I can't control - **Pixel-Fractions**.
 
 This annoying issue can be fixed by simply right-clicking and select "Align to Pixel Grid" or going to Object > Align to Pixel Grid. But if you are like me and rely heavily on keyboard shortcuts (commands), this can become quite annoying and cumbersome, since Adobe XD doesn't allow you to create or edit existing shortcuts.
 
