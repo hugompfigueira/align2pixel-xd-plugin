@@ -48,7 +48,7 @@ You simply select one or multiple objects you want to align to the Pixel Grig an
 
 ## Contributing
 
-If you feel something is not working or could be improved, feel free to contribute.
+If you feel something is not working or could be improved, feel free to contribute by [opening an issue](https://github.com/hugompfigueira/align2pixel-xd-plugin/issues) or submitting new features or bug fixing in a [Pull Request](https://github.com/hugompfigueira/align2pixel-xd-plugin/pulls).
 
 ## License
 
