@@ -1,5 +1,7 @@
 # Align 2 Pixel - Adobe XD Plugin
 
+https://img.shields.io/badge/Plugin-Adobe%20XD-blueviolet https://img.shields.io/badge/version-0.0.1-blue 
+
 ## Description
 
 When creating a project in Adobe XD, I often face an issue (and you probably may too) that I can't control - **Pixel-Fractions**.
@@ -27,6 +29,8 @@ To use this plugin, you have 3 options:
 1. **Via commands (shortcuts)**: `Cmd + Shift + X` (or `Ctrl + Shift + X` if you are using Windows);
 2. **Plugins panel**: You will see it in the Plugins panel (`Cmd + P` to show/hide panel) - click on it to apply action;
 3. **Plugins menu**: You can also reach it in Plugins > Align2Pixel.
+
+You simply select one or multiple objects you want to align to the Pixel Grig and then `Cmd + Shift + X`. Simple! The objects will adjust to the closest integer, making them sharp and Pixel-Perfect.
 
 ## License
 
