@@ -54,4 +54,4 @@ If you feel something is not working or could be improved, feel free to contribu
 
 ## License
 
-Apache 2.0
+[Apache 2.0](https://github.com/hugompfigueira/align2pixel-xd-plugin/blob/main/LICENSE)
