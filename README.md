@@ -46,6 +46,10 @@ To use this plugin, you have 3 options:
 
 You simply select one or multiple objects you want to align to the Pixel Grig and then `Cmd + Shift + X`. Simple! The objects will adjust to the closest integer, making them sharp and Pixel-Perfect.
 
+## Contributing
+
+If you feel something is not working or could be improved, feel free to contribute.
+
 ## License
 
 Apache 2.0
