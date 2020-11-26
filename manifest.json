@@ -1,0 +1,24 @@
+{
+  "name" : "Align2Pixel",
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "21.0"
+  },
+  "id" : "0a94525b",
+  "icons" : [ {
+    "path" : "images/icon@1x.png",
+    "width" : 24,
+    "height" : 24
+  }, {
+    "path" : "images/icon@2x.png",
+    "width" : 48,
+    "height" : 48
+  } ],
+  "uiEntryPoints" : [ {
+    "type" : "menu",
+    "commandId" : "alignToPixel",
+    "shortcut": { "mac": "Cmd+Shift+X", "win": "Ctrl+Shift+X" }
+  } ],
+  
+  "version" : "0.0.1"
+}
