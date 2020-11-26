@@ -2,6 +2,8 @@
 
 https://img.shields.io/badge/Plugin-Adobe%20XD-blueviolet https://img.shields.io/badge/version-0.0.1-blue 
 
+https://img.shields.io/github/license/hugompfigueira/align2pixel-xd-plugin
+
 ## Description
 
 When creating a project in Adobe XD, I often face an issue (and you probably may too) that I can't control - **Pixel-Fractions**.
