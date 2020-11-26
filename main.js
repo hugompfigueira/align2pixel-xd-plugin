@@ -6,6 +6,21 @@
  * to change or edit shortcuts, this plugin will come in handy to quickly
  * perform an action that usually takes more than 2 clicks.
  *
+ * Simply use the shortcut Cmd + Shift + X (or Ctrl + Shift + X for Win)
+ *
+ *
+ * November 2020
+ *
+ * Created by Hugo Figueira
+ *
+ * Website    https://hugofigueira.pt
+ * Dribbble   https://dribbble.com/hfigueira_1
+ * GitHub     https://github.com/hugompfigueira
+ * Instagram  https://www.instagram.com/hugompfigueira/
+ *
+ * Contribute on
+ * https://github.com/hugompfigueira/align2pixel-xd-plugin
+ *
  */
 
 const commands = require("commands");
