@@ -20,6 +20,7 @@ This annoying issue can be fixed by simply right-clicking and select "Align to P
 Until Adobe XD allows you to change or edit shortcuts, this plugin will come in handy to quickly perform an action that usually takes more than 2 clicks.
 
 ![Before and After applying the align2pixel](https://github.com/hugompfigueira/align2pixel-xd-plugin/blob/main/before-and-after.png "Before and After")
+_Before and After_
 
 <br/>
 
