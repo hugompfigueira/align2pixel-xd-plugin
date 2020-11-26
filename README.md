@@ -29,7 +29,7 @@ _Before and After_
 To install this plugin, simply:
 
 1. Download the file;
-2. Go to Adobe XD, Plugins > Development > Show Development Folder;
+2. Go to Adobe XD, Plugins > Development > Show Develop Folder;
 3. Extract the downloaded folder into the "develop" folder;
 4. Go back to Adobe XD, Plugins > Development > Reload Plugins (or `Shift + Cmd/Ctrl + R`);
 5. Done!
