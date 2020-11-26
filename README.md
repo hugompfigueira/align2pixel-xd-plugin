@@ -44,7 +44,8 @@ To use this plugin, you have 3 options:
 2. **Plugins panel**: You will see it in the Plugins panel (`Cmd + P` to show/hide panel) - click on it to apply action;
 3. **Plugins menu**: You can also reach it in Plugins > Align2Pixel.
 
-You simply select one or multiple objects you want to align to the Pixel Grig and then `Cmd + Shift + X`. Simple! The objects will adjust to the closest integer, making them sharp and Pixel-Perfect.
+Now, simply **select one or multiple objects** you want to align to the Pixel Grig and then `Cmd + Shift + X`. Simple! 
+The objects will adjust to the closest integer, making them sharp and Pixel-Perfect.
 
 ## Contributing
 
