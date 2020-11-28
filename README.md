@@ -1,11 +1,13 @@
 <h1 align="center">Align 2 Pixel - Adobe XD Plugin</h1>
 
 <div align="center">
-  
-![alt text](https://img.shields.io/badge/plugin-Adobe%20XD-blueviolet) 
-![alt text](https://img.shields.io/badge/version-0.1.0-blue) 
-![alt text](https://img.shields.io/github/license/hugompfigueira/align2pixel-xd-plugin) 
+  ![alt text](https://github.com/hugompfigueira/align2pixel-xd-plugin/blob/main/images/icon%405x.png "Logo")
+</div>
 
+<div align="center">
+  ![alt text](https://img.shields.io/badge/plugin-Adobe%20XD-blueviolet)
+  ![alt text](https://img.shields.io/badge/version-0.1.0-blue)
+  ![alt text](https://img.shields.io/github/license/hugompfigueira/align2pixel-xd-plugin) 
 </div>
 <br/>
 
