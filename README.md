@@ -5,6 +5,7 @@
 </div>
 
 <h1 align="center">Align 2 Pixel - Adobe XD Plugin</h1>
+<p align="center">**Align to Pixel Grid** with a simple shortcut - For Adobe XD</p>
 
 <div align="center">
   
