@@ -1,6 +1,10 @@
 <h1 align="center">Align 2 Pixel - Adobe XD Plugin</h1>
 
+<div align="center">
+  
   ![alt text](https://github.com/hugompfigueira/align2pixel-xd-plugin/blob/main/images/icon%405x.png "Logo")
+  
+</div>
 
 <div align="center">
   
